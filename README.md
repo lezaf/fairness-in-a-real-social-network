@@ -1,5 +1,5 @@
 # Fairness in a real social network
-This is a project for measuring fairness in ranking algorithms results. It was developed for the course "D6 - Online Social Networks and Media" of my MSc degree. A full description of the process followed and results can be found in [REPORT.pdf](/REPORT.pdf) file. 
+This is a project for measuring fairness in ranking algorithms results. It was developed for the course "D6 - Online Social Networks and Media" of my MSc degree under the supervision of [E. Pitoura](https://www.cs.uoi.gr/~pitoura/) and [P. Tsaparas](https://www.cs.uoi.gr/~tsap/). A full description of the process followed and results can be found in [REPORT.pdf](/REPORT.pdf) file. 
 
 ## Notes
 - [requirements.txt](/requirements.txt) file can be used to re-create anaconda environment with the necessary dependencies.
